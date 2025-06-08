@@ -8,7 +8,7 @@ const customStyles = {
     padding: 0,
     border: "none",
     background: "transparent",
-    minHeight: "400px",
+    minHeight: "600px",
   },
   overlay: {
     backgroundColor: "rgba(0, 0, 0, 0.75)",
